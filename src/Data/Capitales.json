@@ -1,0 +1,121 @@
+[
+    {
+      "ID": 1,
+      "Question": "Quel est la capital du Sri-Lanka",
+      "Answers": "Colombo|Anuradhapura|Bombay|Kandy",
+      "difficulte" : 2,
+      "Right": 0
+    },
+    {
+      "ID": 2,
+      "Question": "Laquelle de ces villes est une ancienne Capital Russe : ",
+      "Answers": "Stalinegrad|Novigrad|Vladivostok|Saint-Pétersbourg",
+      "difficulte" : 3,
+      "Right": 3
+    },
+    {
+      "ID": 3,
+      "Question": "Laquelle de ces capitales est la plus petite (en superficie) : ",
+      "Answers": "Paris|Rome|Bangkok|Le Caire",
+      "difficulte" : 3,
+      "Right": 0
+    },
+    {
+      "ID": 4,
+      "Question": "De quel pays Jakarta est-t-elle la capitale ?",
+      "Answers": "Nicaragua|Le Yémen|Thaïlande|Indonésie",
+      "difficulte" : 2,
+      "Right": 3
+    },
+    {
+      "ID": 5,
+      "Question": "Quelle est la capitale de l'Inde ?",
+      "Answers": "Bombay|New Delhi|Calcutta|Bangalore",
+      "difficulte" : 1,
+      "Right": 1
+    },
+    {
+      "ID": 6,
+      "Question": "Dans lequel de ces films, l'intrigue ne prend-elle PAS place à Londres ?",
+      "Answers": "Skyfall|Inception|V pour Vendetta|28 jours plus tard",
+      "difficulte" : 2,
+      "Right": 1
+    },
+    {
+      "ID": 7,
+      "Question": "Laquelle de ces capitale se trouve en Afrique ?",
+      "Answers": "Montevideo|Téhéran|Brazzaville|Santiago",
+      "difficulte" : 2,
+      "Right": 2
+    },
+    {
+      "ID": 8,
+      "Question": "De quelle pays La Havane est-elle la capitale ?",
+      "Answers": "Jamaïque|Chili|Argentine|Cuba",
+      "difficulte" : 1,
+      "Right": 3
+    },
+    {
+      "ID": 9,
+      "Question": "Laquelle de ces capitale d'Afrique est la plus petite ?",
+      "Answers": "Abuja|Abidjan|Tripoli|Addis-Abeba",
+      "difficulte" : 3,
+      "Right": 3
+    },
+    {
+      "ID": 10,
+      "Question": "Quelle est la capitale de l'Espagne ?",
+      "Answers": "Grenade|Madrid|Barcelone|Ibiza",
+      "difficulte" : 1,
+      "Right": 1
+    },
+    {
+      "ID": 11,
+      "Question": "Quelle est la capitale du Maroc ?",
+      "Answers": "Rabat|Casablanca|Marrakech|Fès",
+      "difficulte" : 1,
+      "Right": 0
+    },
+    {
+      "ID": 12,
+      "Question": "Laquelle de ces capitale est connu comme 'La ville des amoureux' ?",
+      "Answers": "Lisbonne|Oslo|Paris|Rome",
+      "difficulte" : 1,
+      "Right": 2
+    },
+    {
+      "ID": 13,
+      "Question": "Quelle ville est la capitale des États-Unis d'Amérique ?",
+      "Answers": "Chicago|New York|Miami|Washington",
+      "difficulte" : 1,
+      "Right": 3
+    },
+    {
+      "ID": 14,
+      "Question": "Laquelle de ces capitale est en bord d'eau ?",
+      "Answers": "Pekin|Olso|New Delhi|Brasilia",
+      "difficulte" : 2,
+      "Right": 1
+    },
+    {
+      "ID": 15,
+      "Question": "Quelle est la capitale du Perou ?",
+      "Answers": "Lima|Santiago|Buenos Aires|Porto Alegre",
+      "difficulte" : 2,
+      "Right": 0
+    },
+    {
+      "ID": 16,
+      "Question": "Lequel de ces pays n'a pas de frontière avec la France ?",
+      "Answers": "Brésil|Italie|Autriche|Luxembourg",
+      "difficulte" : 3,
+      "Right": 2
+    },
+    {
+      "ID": 17,
+      "Question": "Quelle est la capital du Groenland ?",
+      "Answers": "helsinki|Stockholm|Oslo|Nuuk",
+      "difficulte" : 3,
+      "Right": 3
+    }
+   ]

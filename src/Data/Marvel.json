@@ -1,0 +1,121 @@
+[
+    {
+      "ID": 1,
+      "Question": "En quel année est apparu la première fois Spiderman ?",
+      "Answers": "1962|1966|1970|1972",
+      "difficulte" : 3,
+      "Right": 0
+    },
+    {
+      "ID": 2,
+      "Question": "Par qui est élevé Peter Parker ?",
+      "Answers": "Tante Rose et Oncle Ben|Tante May et Oncle Tom|Tante May et Oncle Ben|Tante Rose et Oncle Tom",
+      "difficulte" : 1,
+      "Right": 2
+    },
+    {
+      "ID": 3,
+      "Question": "Quel est le nom de méchant de Eddie Broke ?",
+      "Answers": "Dr Octopus|Venom|Rhino|Le bouffon vert ",
+      "difficulte" : 1,
+      "Right": 1
+    },
+    {
+      "ID": 4,
+      "Question": "Quel est le super pouvoir de Tony Stark (Iron Man) ?",
+      "Answers": "Il peux voler|Il possède une force surpuissante|Il peux lancer des lasers avec ces yeux|Il n'en possède pas",
+      "difficulte" : 1,
+      "Right": 3
+    },
+    {
+      "ID": 5,
+      "Question": "Combien y'a-t-il eu de film Hulk ?",
+      "Answers": "2|4|6|7",
+      "difficulte" : 2,
+      "Right": 2
+    },
+    {
+      "ID": 6,
+      "Question": "En quel année est sortie le premier film Thor ?",
+      "Answers": "2007|2009|2011|2014",
+      "difficulte" : 2,
+      "Right": 2
+    },
+    {
+      "ID": 7,
+      "Question": "Quel arme Thanos utilise-t-il pour réduire de moitié la population de l'univers ?",
+      "Answers": "Le sceptre unique|Le marteau Mjolnir|La nécro-épée|Le Gantelet de l'Infini",
+      "difficulte" : 2,
+      "Right": 3
+    },
+    {
+      "ID": 8,
+      "Question": "De quel univers le Punisher est-t-il un personnage secondaire ?",
+      "Answers": "L'univers SpiderMan|L'univers Captain América|L'univers X-Men|L'univers Ant-Man",
+      "difficulte" : 2,
+      "Right": 0
+    },
+    {
+      "ID": 9,
+      "Question": "Quel est le super pouvoir de Logan (Wolverine) ?",
+      "Answers": "Ses griffes en adamantium|Il possède une faculté d'autoguérison intégrale|Il est télépathe|Il peux se transformer en loup",
+      "difficulte" : 1,
+      "Right": 1
+    },
+    {
+      "ID": 10,
+      "Question": "Quel est l'acteur jouant le rôle de Logan (Wolverine) ?",
+      "Answers": "Tom Holland|Benedict cumberbatch|Hugh Jackman|Robert Downey Jr.",
+      "difficulte" : 2,
+      "Right": 2
+    },
+    {
+      "ID": 11,
+      "Question": "Quel est le méchant du Film SpiderMan 2 (2004) ?",
+      "Answers": "Le Bouffon Vert|Venom|L'homme de sable|Doctor Octupus",
+      "difficulte" : 1,
+      "Right": 3
+    },
+    {
+      "ID": 12,
+      "Question": "Qui est le directeur de l'institut dans la série X-Men ?",
+      "Answers": "Magnéto|Cyclope|Tornade|Charles Xavier",
+      "difficulte" : 1,
+      "Right": 1
+    },
+    {
+      "ID": 13,
+      "Question": "Quel est le nom du Symbiote de Cletus Kasady ?",
+      "Answers": "Venom|Toxin|Scron|Carnage",
+      "difficulte" : 2,
+      "Right": 3
+    },
+    {
+      "ID": 14,
+      "Question": "Quel est le nom du père de Thor et Loki ?",
+      "Answers": "Jörd|Thrúd|Odin|Mjöllnir",
+      "difficulte" : 1,
+      "Right": 2
+    },
+    {
+      "ID": 15,
+      "Question": "Qui est le créateur de Marvel ?",
+      "Answers": "Stan Lee|Martin Goodman|Jack Kirby|Joe Quesada",
+      "difficulte" : 2,
+      "Right": 1
+    },
+    {
+      "ID": 16,
+      "Question": "En quelle année est décédé Stan Lee, un des déssinateur emblématique de Marvel ?",
+      "Answers": "2010|2015|2016|2018",
+      "difficulte" : 2,
+      "Right": 3
+    },
+    {
+      "ID": 17,
+      "Question": "Lequel de ces personnage n'est PAS un super Héros de l'univers Marvel : ",
+      "Answers": "Blue Beetle|Starfox|Machine Man|Yondu",
+      "difficulte" : 2,
+      "Right": 3
+    }
+   ]
